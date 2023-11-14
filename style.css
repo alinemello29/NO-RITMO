@@ -209,7 +209,7 @@ li:hover {
 .pinterest {
   width: 4vw;
   height: 8vh;
-  background-image: url("./img/p.png");
+  background-image: url("./img/pinterest.png");
   background-repeat: no-repeat;
   cursor: pointer;
 }
